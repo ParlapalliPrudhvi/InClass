@@ -3,7 +3,7 @@
 
 #include "framework.h"
 #include "Application.h"
-
+// fake comment
 
 CoolClass::CoolClass(void)
 {
